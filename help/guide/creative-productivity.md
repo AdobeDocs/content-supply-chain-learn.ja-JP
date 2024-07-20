@@ -1,6 +1,6 @@
 ---
-title: クリエイティブの生産性 — クリエイティブチームの追加
-description: ロックスターのクリエイティブを持つ企業にとって、それは生産を増やす必要があります。 Adobeコンテンツサプライチェーンは、GenAI に過剰に充電されたツールを提供し、このチームがコンテンツの作成、配信、検出性を向上するのに役立ちます。
+title: クリエイティブの生産性 – より高度なクリエイティブチーム
+description: ロックスターのクリエイティブを持つ会社にとって、それは生産を上げる必要があります。 Adobeコンテンツサプライチェーンは、GenAI を強化したツールを提供し、チームがコンテンツの制作、配信、発見可能性を向上させるのに役立ちます。
 solution: Experience Cloud, Creative Cloud, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets, Creative Cloud
 feature: Workflow, Asset Management, Asset Processing, Asset Distribution, Publishing, Collaboration, Share, Gen AI, UI Design, Graphic Design
@@ -10,25 +10,25 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: b856f8a3-c353-4f10-8d04-5758ec59b611
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 1%
 
 ---
 
+# クリエイティブの生産性：クリエイティブチームの強化
 
-# クリエイティブの生産性：クリエイティブチームの追加
-
-ロックスターのクリエイティブを持つが、コンテンツの作成を強化する必要がある企業のため。 Adobeコンテンツサプライチェーンは、GenAI に過充電されたツールを提供し、このチームがコンテンツの作成、配信、検出性を高めるのに役立ちます。
+ロックスターのクリエイターを抱えているが、コンテンツの作成を増やす必要がある会社の場合。 Adobeコンテンツサプライチェーンは、GenAI を強化したツールを提供し、チームのコンテンツ制作、配信、発見可能性を向上させるのに役立ちます。
 
 ## プライマリビジネスの使用例
 
-* GenAI を利用したクリエイティブアイディエーションと編集により、クリエイティブプロフェッショナルの時間を節約
-* クリエイティブ間のコラボレーションとレビューを促進
-* 既存のアセットに容易にアクセスして新しいコンテンツの作成を通知
+* GenAI を活用したクリエイティブアイデアと編集で、クリエイティブプロフェッショナルの時間を節約
+* クリエイティブ間の共同作業とレビューを促進
+* 既存のアセットに簡単にアクセスして、新しいコンテンツの作成を通知します。
 
-クリエイティブの生産性に使用されるAdobeソリューション：
+クリエイティブな生産性を高めるために使用されるAdobeソリューション：
 
 <table>
     <tr style="border: 0;">
@@ -54,19 +54,19 @@ ht-degree: 1%
     <div class="card-image">
       <figure class="image x-is-16by9">
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="クリエイティブの効率を高める" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425036?format=jpeg" alt="Firefly — クリエイティブの効率を高めます。">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425036?format=jpeg" alt="Firefly - クリエイティブの効率性を高めます">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="クリエイティブの効率を高める">クリエイティブの効率を高める</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="クリエイティブの効率を高める"> クリエイティブの効率性の有効化 </a>
           </p>
-          <p class="is-size-6"><em>Adobe PhotoshopとIllustratorの生成 AI を利用したツールを使用して、コンテンツ作成を高速化する方法を学びます。</em></p>
+          <p class="is-size-6"><em>Adobe PhotoshopとIllustratorで、AI を活用したジェネレーティブ ツールを使用して、コンテンツの作成を高速化する方法について説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -74,20 +74,20 @@ ht-degree: 1%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Illustratorの生成的変色" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420872?format=jpeg" alt="Illustratorの生成的変色">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Illustratorの生成リカラー" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420872?format=jpeg" alt="Illustratorの生成リカラー">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Illustratorの生成的変色">Illustratorの生成的変色</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Illustratorの生成リカラー">Illustratorの生成リカラー </a>
           </p>
-          <p class="is-size-6"><em>Adobe IllustratorでAdobe Fireflyを活用した Generative Recolor を使用して、カスタムホテルのティーボックスのベクトル画像をすばやく再カラー化する方法を学びます。</em></p>
+          <p class="is-size-6"><em>Adobe IllustratorでAdobe Fireflyを活用したジェネレーティブリカラーを使用して、カスタムホテルのティーボックスのベクターイメージをすばやく再配色する方法を説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -103,12 +103,12 @@ ht-degree: 1%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects.html" title="テキスト効果">テキスト効果</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects.html" title="テキスト効果"> テキスト効果 </a>
           </p>
-          <p class="is-size-6"><em>Adobe Fireflyを活用したテキスト効果を使用して、ニュースレター用の独自の刺激的なタイトル画像を作成する方法を説明します。</em></p>
+          <p class="is-size-6"><em>Adobe Fireflyを活用したテキスト効果を使用して、ニュースレターにユニークで魅力的なタイトル画像を作成する方法を説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -116,20 +116,20 @@ ht-degree: 1%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" title="Photoshopのバナー広告バリエーション" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420791?format=jpeg" alt="Photoshopのバナー広告バリエーション">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" title="Photoshopのバナー広告のバリエーション" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420791?format=jpeg" alt="Photoshopのバナー広告のバリエーション">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" title="Photoshopのバナー広告バリエーション">Photoshopのバナー広告バリエーション</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" title="Photoshopのバナー広告のバリエーション">Photoshopのバナー広告のバリエーション </a>
           </p>
-          <p class="is-size-6"><em>Web 広告バナーの作成を高速化するために、Adobe PhotoshopでAdobe Fireflyを活用した生成フィルを使用する方法を学びます。</em></p>
+          <p class="is-size-6"><em>Adobe PhotoshopでAdobe Fireflyを活用したジェネレーティブフィルを使用して、web 広告バナーの作成を高速化する方法を説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -137,20 +137,20 @@ ht-degree: 1%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="クリエイティブアイディエーションをすぐに開始" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424296?format=jpeg" alt="クリエイティブアイディエーションをすぐに開始">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="クリエイティブなアイデアをすぐに生み出す" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424296?format=jpeg" alt="クリエイティブなアイデアをすぐに生み出す">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="クリエイティブアイディエーションをすぐに開始">クリエイティブアイディエーションをすぐに開始</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="クリエイティブなアイデアをすぐに生み出す">Jumpstart のクリエイティブなアイデア </a>
           </p>
           <p class="is-size-6"><em>マーケティングキャンペーン用のクリエイティブコンテンツの開発に着手する方法を説明します。 </em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -158,20 +158,20 @@ ht-degree: 1%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Photoshopの生成的埋め込み" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420537?format=jpeg" alt="Photoshopの生成的埋め込み">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Photoshopへのジェネレーティブフィル" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420537?format=jpeg" alt="Photoshopへのジェネレーティブフィル">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Photoshopの生成的埋め込み">Photoshopの生成的埋め込み</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Photoshopへのジェネレーティブフィル">Photoshopへのジェネレーティブフィル </a>
           </p>
-          <p class="is-size-6"><em>Adobe PhotoshopでAdobe Fireflyを活用した生成フィルを使用して、旅行広告のコンセプトを簡単に作成する方法を学びます。</em></p>
+          <p class="is-size-6"><em>トラベル広告のコンセプトを簡単に作成できるように、Adobe PhotoshopでAdobe Fireflyを活用したジェネレーティブフィルを使用する方法を説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -179,20 +179,20 @@ ht-degree: 1%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="CC ライブラリを使用" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="CC ライブラリを使用">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="CC Librariesの使用" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="CC Librariesの使用">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="CC ライブラリを使用">CC ライブラリを使用</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="CC Librariesの使用">CC Librariesの使用 </a>
           </p>
           <p class="is-size-6"><em>CC ライブラリアセットをチームと共有する方法を説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -200,20 +200,20 @@ ht-degree: 1%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html" title="Frame.io でのビデオレビュー" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/video-review-frame-io.png" alt="Frame.io でのビデオレビュー">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html" title="Frame.io のビデオレビュー" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/video-review-frame-io.png" alt="Frame.io のビデオレビュー">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html" title="Frame.io でのビデオレビュー">Frame.io でのビデオレビュー</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html" title="Frame.io のビデオレビュー">Frame.io のビデオレビュー </a>
           </p>
-          <p class="is-size-6"><em>Adobe Premiere Proの Frame.io 拡張機能を使用して、アセットを一元管理し共有し、リアルタイムコメントを受け取り、改訂を追跡し、迅速な承認を得る方法を説明します。</em></p>
+          <p class="is-size-6"><em>Adobe Premiere Proの Frame.io 拡張機能を使用して、アセットを一元化および共有する方法、リアルタイムのコメントを受け取る方法、リビジョンを追跡する方法、迅速に承認を得る方法について説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
       </a>
     </div>
   </div>
@@ -432,5 +432,5 @@ ht-degree: 1%
 
 ## その他のリソース
 
-* [Experience Leagueイベント](https://experienceleague.adobe.com/events/)
-* [コンテンツサプライチェーンに関するAdobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Experience League イベント ](https://experienceleague.adobe.com/events/)
+* [ コンテンツのサプライチェーンに関するAdobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

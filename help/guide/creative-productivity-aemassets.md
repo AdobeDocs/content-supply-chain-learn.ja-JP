@@ -1,6 +1,6 @@
 ---
-title: クリエイティブの生産性 — クリエイティブチームの追加
-description: ロックスタークリエイティブの会社にとって、それは生産を増やす必要があります。 Adobeコンテンツサプライチェーンは、GenAI に過剰に充電されたツールを提供し、このチームがコンテンツの作成、配信、検出性を向上するのに役立ちます。
+title: クリエイティブの生産性 – より高度なクリエイティブチーム
+description: ロックスターのクリエイティブを持つ企業にとって、それは生産を上げる必要があります。 Adobeコンテンツサプライチェーンは、GenAI を強化したツールを提供し、チームがコンテンツの制作、配信、発見可能性を向上させるのに役立ちます。
 solution: Experience Cloud, Creative Cloud, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets, Creative Cloud
 feature: Workflow, Asset Management, Asset Processing, Asset Distribution, Publishing, Collaboration, Share, Gen AI, UI Design, Graphic Design
@@ -10,25 +10,25 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+exl-id: e66480f9-c7af-4b15-afdf-dd89a792af20
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 41%
+ht-degree: 42%
 
 ---
 
+# クリエイティブの生産性：クリエイティブチームの強化
 
-# クリエイティブの生産性：クリエイティブチームの追加
-
-ロックスタークリエイティブが存在するが、コンテンツの作成を成し遂げる必要がある企業のため。 Adobeコンテンツサプライチェーンは、GenAI に過充電されたツールを提供し、このチームがコンテンツの作成、配信、検出性を高めるのに役立ちます。
+ロックスターのクリエイターを抱えているが、コンテンツの作成を増やす必要がある会社の場合。 Adobeコンテンツサプライチェーンは、GenAI を強化したツールを提供し、コンテンツの制作、配信、検出性を向上させます。
 
 ## プライマリビジネスの使用例
 
-* GenAI を利用したクリエイティブアイディエーションと編集により、クリエイティブプロフェッショナルの時間を節約
-* クリエイティブ間のコラボレーションとレビューを促進
-* 既存のアセットに容易にアクセスして新しいコンテンツの作成を通知
+* GenAI を活用したクリエイティブアイデアと編集で、クリエイティブプロフェッショナルの時間を節約
+* クリエイティブ間の共同作業とレビューを促進
+* 既存のアセットに簡単にアクセスして、新しいコンテンツの作成を通知します。
 
-クリエイティブの生産性に使用されるAdobeソリューション：
+クリエイティブな生産性を高めるために使用されるAdobeソリューション：
 
 <table>
     <tr style="border: 0;">
@@ -48,18 +48,18 @@ ht-degree: 41%
     &lt;/tr>
 </table>
 
-## 推奨コース
+## おすすめのコース
 
 <table style="margin-top:0 !important">
     <tr>
       <td style="width:33%">
         <a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" target="_blank">
-          <img alt="Experience Managerへの管理アクセスの設定" src="https://cdn.experienceleague.adobe.com/thumb/configure-access-to-aem-for-administrators.jpg">
+          <img alt="Experience Managerへの管理者アクセスの設定" src="https://cdn.experienceleague.adobe.com/thumb/configure-access-to-aem-for-administrators.jpg">
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" target="_blank">
-        <strong>Experience Managerへの管理アクセスの設定</strong></a>
-        <p class="is-size-7 recs-limit-description">Adobe IMSを使用してAEM as a Cloud Serviceに対してAdobe IMSを認証する方法、およびユーザーユーザー、ユーザーグループ、製品プロファイルを使用してAEMとその機能へのアクセスを制御する方法を確認します。</p>
+        <strong>Experience Managerへの管理アクセスの設定 </strong></a>
+        <p class="is-size-7 recs-limit-description">AEM as a Cloud Serviceに対するAdobe IMSを使用したユーザーの認証方法と、Adobe IMSユーザー、ユーザーグループおよび製品プロファイルを使用してAEMおよびその機能および機能へのアクセスを制御する方法について説明します。</p>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span></a></p>
         </div>
       </td>
@@ -82,10 +82,10 @@ ht-degree: 41%
           <p class="headline is-size-6 has-text-weight-bold">
               <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=ja" title="Creative Cloud と Assets Essentials">Creative CloudとAssets Essentials</a>
           </p>
-          <p class="is-size-6"><em>Assets EssentialsをAdobe Creative Cloudライブラリと統合する方法を説明します。</em></p>
+          <p class="is-size-6"><em>Assets EssentialsをAdobe Creative Cloud ライブラリと統合する方法について説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -101,12 +101,12 @@ ht-degree: 41%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html?lang=ja" title="AEM デスクトップアプリケーションの概要">AEM Desktop App の使用</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html?lang=ja" title="AEM デスクトップアプリケーションの概要">AEM デスクトップアプリケーションの使用 </a>
           </p>
           <p class="is-size-6"><em>AEM Desktop App を使用すると、デスクトップ上で管理されるあらゆるアセットに対し、あらゆるアプリケーションおよびファイル形式で簡単にアクセスできます。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -114,20 +114,20 @@ ht-degree: 41%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEMとAdobeアセットリンクのクリエイティブワークフロー" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/335927?format=jpeg" alt="AEMとAdobeアセットリンクのクリエイティブワークフロー">
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEMとAdobeの Asset Link クリエイティブワークフロー" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/335927?format=jpeg" alt="AEMとAdobeの Asset Link クリエイティブワークフロー">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEMとAdobeアセットリンクのクリエイティブワークフロー">AEMとAdobeアセットリンクのクリエイティブワークフロー</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEMとAdobeの Asset Link クリエイティブワークフロー">AEMおよびAdobeの Asset Link クリエイティブワークフロー </a>
           </p>
           <p class="is-size-6"><em>Adobe Creative Cloud for enterprise の Adobe Asset Link 拡張機能は、Creative Cloud アプリケーション内で AEM アセットのメタデータを検索、参照、並べ替え、プレビュー、アセットのアップロード、チェックアウト、変更、チェックインおよび表示する機能を拡張します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -143,12 +143,12 @@ ht-degree: 41%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Adobe Express の統合">Adobe Express統合</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Adobe Express の統合">Adobe Expressの統合 </a>
           </p>
           <p class="is-size-6"><em>AEM Assets と Adobe Express を使用してコンテンツのサプライチェーンを最適化し、すべてのチームメンバーの生産性とアクセシビリティを向上させる方法について説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -164,12 +164,12 @@ ht-degree: 41%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=ja" title="コンテンツフラグメントコンソールのビデオ">コンテンツフラグメントコンソールのビデオ</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=ja" title="コンテンツフラグメントコンソールのビデオ"> コンテンツフラグメントコンソールのビデオ </a>
           </p>
-          <p class="is-size-6"><em>AEMコンテンツフラグメントコンソールおよびエディターの理解と使用に役立つビデオのコレクションです。</em></p>
+          <p class="is-size-6"><em>AEM コンテンツフラグメントコンソールおよびエディターの理解と使用に役立つビデオのコレクションです。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -185,12 +185,12 @@ ht-degree: 41%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" title="ページのオーサリング">ページのオーサリング</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" title="ページのオーサリング"> ページのオーサリング </a>
           </p>
           <p class="is-size-6"><em>サイトエディターの UI を使用して Adobe Experience Manager Sites でページを作成する方法を説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -206,12 +206,12 @@ ht-degree: 41%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Adobe Asset Link のセットアップ">Adobeアセットリンクの設定</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Adobe Asset Link のセットアップ">Adobeアセットリンクのセットアップ </a>
           </p>
           <p class="is-size-6"><em>AEM as a Cloud Service 用に Adobe Asset Link をセットアップする方法、ユーザーの使用資格と AEM as a Cloud Service の設定、Adobe Asset Link をインストールして使用する方法などについて説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>

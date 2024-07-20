@@ -1,6 +1,6 @@
 ---
-title: マーケティングの俊敏性 — クリエイティブ以外の人が規模を拡大できるようにします。
-description: Adobeコンテンツサプライチェーンのチュートリアルを表示します。クリエイティブチームやスタジオでの完全な治療なしに、コンテンツリクエストに対処できる場合があります。 Adobeは、コンテンツのバリエーションや更新を迅速に作成できるように、マーケターやその他の潜在的なコンテンツ作成者にツールを提供し、コンテンツサプライチェーンに接続した広範な個人グループでコンテンツのスループットと市場投入時間を大幅に向上させます。
+title: マーケティングの俊敏性 – 非クリエイティブ担当者が規模を拡大できるようにします
+description: Adobeのコンテンツサプライチェーンのチュートリアルをご覧ください。クリエイティブチーム/Studio による完全な処理なしに、コンテンツリクエストに対処できる場合があります。 Adobeを使用すると、マーケターやコンテンツ作成者の手にツールが渡るので、コンテンツのバリエーションや更新をすばやく作成し直して、コンテンツのサプライチェーンに接続された広範なグループが更新を実行できるようになり、コンテンツのスループットと市場投入までの時間を大幅に短縮できます。
 solution: Experience Cloud, Creative Cloud, Experience Manager Assets
 feature-set: Experience Manager, Experience Manager Assets, Creative Cloud
 feature: Workflow, Asset Management, Publishing, Asset Processing, Collaboration, Share, Gen AI
@@ -10,19 +10,19 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14156
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 14%
 
 ---
 
+# マーケティングの俊敏性：クリエイティブ以外のユーザーが規模を拡大できるようにします
 
-# マーケティングの俊敏性：クリエイティブ以外の人が規模を拡大できるようにします。
+Adobeのコンテンツサプライチェーンツールを使用すると、クリエイティブチーム/スタジオによる完全な処理なしで、コンテンツリクエストに対処できる場合があります。 Adobeを使用すると、ツールをマーケターやコンテンツ作成者の手に渡すことができます。 これらのツールを使用すると、コンテンツのバリエーションの作成を簡単にオンにできます。 アップデートは、コンテンツのサプライチェーンに接続された、拡張された広範なグループによって実行でき、コンテンツのスループットと市場投入までの時間を大幅に増やすことができます。
 
-Adobeコンテンツサプライチェーンツールを使用すると、クリエイティブチームやスタジオで完全な治療を受けなくても、コンテンツリクエストに対処できます。 Adobeは、ツールをマーケターやその他の潜在的なコンテンツ作成者に提供します。 これらのツールを使用すると、コンテンツのバリエーションをすばやく作成できます。 更新は、コンテンツサプライチェーンに接続される広範な個人グループによって実行され、コンテンツのスループットと市場投入時間を大幅に増加させます。
-
-マーケティングの俊敏性に使用されるAdobeソリューションは次のとおりです。
+マーケティングの俊敏性に使用されるAdobeソリューション：
 
 
 <table>
@@ -40,9 +40,9 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
 
 ## プライマリビジネスの使用例
 
-* 迅速な対応を可能にするキャンペーン用のコンテンツを迅速に生成
-* ブランド上で保持したまま、既存のコンテンツをリミックス
-* 派生アセット（サイズ、チャネル）の生成を自動化
+* 迅速な対応キャンペーン用のコンテンツを迅速に生成
+* ブランドを維持しながら既存のコンテンツをリミックス
+* 派生資産（サイズ、チャネル）の生成を自動化
 
 ## チュートリアル
 
@@ -58,12 +58,12 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=ja" title="AEM Assets Dynamic Media でのスマート切り抜きの使用">AEM Assets Dynamic Mediaでのスマート切り抜きの使用</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=ja" title="AEM Assets Dynamic Media でのスマート切り抜きの使用">AEM Assets Dynamic Mediaでのスマート切り抜きの使用 </a>
           </p>
           <p class="is-size-6"><em>スマート切り抜きでは Adobe Sensei を使用して、レスポンシブデザインでのコンテンツの切り抜きにおける時間とコストのかかるタスクを排除します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -71,20 +71,20 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="「Firefly」でのソーシャルポスターの作成" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420533?format=jpeg" alt="「Firefly」でのソーシャルポスターの作成">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="Fireflyでソーシャルポスターを作成" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420533?format=jpeg" alt="Fireflyでソーシャルポスターを作成">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="「Firefly」でのソーシャルポスターの作成">「Firefly」でのソーシャルポスターの作成</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="Fireflyでソーシャルポスターを作成">Fireflyを使用したソーシャルポスターの作成 </a>
           </p>
-          <p class="is-size-6"><em>ソーシャルメディア用のプロモーションキャンペーンを作成するAdobe Expressで、Adobe Fireflyを活用したテキストを画像に使用する方法を説明します。 このチュートリアルでは、新しいAdobe Expressを使用します。</em></p>
+          <p class="is-size-6"><em>Adobe Fireflyを活用したテキストから画像への変換をAdobe Expressして、ソーシャルメディアのプロモーションキャンペーンを作成する方法を説明します。 このチュートリアルでは、新しいAdobe Expressを使用します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -92,20 +92,20 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="「 」Fireflyでのウェビナーポスターの作成" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420810?format=jpeg" alt="「 」Fireflyでのウェビナーポスターの作成">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Fireflyを使用したウェビナーポスターの作成" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420810?format=jpeg" alt="Fireflyを使用したウェビナーポスターの作成">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="「 」Fireflyでのウェビナーポスターの作成">「 」Fireflyでのウェビナーポスターの作成</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Fireflyを使用したウェビナーポスターの作成">Fireflyを使用したウェビナーポスターの作成 </a>
           </p>
-          <p class="is-size-6"><em>仮想現実イベント用のウェビナーポスターを作成するAdobe Expressで、Adobe Fireflyを活用したテキストを画像に使用する方法を説明します。 このチュートリアルでは、新しいAdobe Expressを使用します。</em></p>
+          <p class="is-size-6"><em>Adobe Fireflyを活用してテキストから画像を生成する方法を、Adobe Expressしてバーチャルリアリティイベント用のウェビナーポスターを作成する方法を説明します。 このチュートリアルでは、新しいAdobe Expressを使用します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -121,12 +121,12 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="ソーシャルキャンペーンを簡単に実行">ソーシャルキャンペーンを簡単に実行</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="ソーシャルキャンペーンを簡単に実行"> ソーシャルキャンペーンを簡単に実行 </a>
           </p>
-          <p class="is-size-6"><em>テキストを画像に使用して、Adobe Fireflyを活用し、Web、ブログ、ソーシャルキャンペーン用の独自のグラフィックコンテンツを作成する方法を説明します。 このチュートリアルでは、新しいAdobe Expressを使用します。</em></p>
+          <p class="is-size-6"><em>Adobe Fireflyを活用したテキストから画像への変換を使用して、web、ブログ、ソーシャルキャンペーン用に独自のグラフィックコンテンツを作成する方法を説明します。 このチュートリアルでは、新しいAdobe Expressを使用します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -142,12 +142,12 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Fireflyを使用した採用およびオンボーディングコンテンツの作成">Fireflyを使用した採用およびオンボーディングコンテンツの作成</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Fireflyを使用した採用およびオンボーディングコンテンツの作成">Fireflyを使用した採用およびオンボーディングコンテンツの作成 </a>
           </p>
-          <p class="is-size-6"><em>Adobe Fireflyを活用したテキストから画像へのAdobe Expressを使用して、従業員の採用とオンボーディングコンテンツ用の独自のグラフィックスを作成する方法を説明します。</em></p>
+          <p class="is-size-6"><em>Adobe Fireflyを活用してテキストから画像を生成する方法を、従業員の採用やオンボーディングコンテンツ用に独自のグラフィックを作成するAdobe Expressで説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -155,20 +155,20 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="マーケティングキャンペーン用のチラシコンテンツをFirefly" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422426?format=jpeg" alt="マーケティングキャンペーン用のチラシコンテンツをFirefly">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="Fireflyを使用したマーケティングキャンペーン用のチラシのコンテンツの作成" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422426?format=jpeg" alt="Fireflyを使用したマーケティングキャンペーン用のチラシのコンテンツの作成">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="マーケティングキャンペーン用のチラシコンテンツをFirefly">マーケティングキャンペーン用のチラシコンテンツをFirefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="Fireflyを使用したマーケティングキャンペーン用のチラシのコンテンツの作成">Fireflyを使用したマーケティングキャンペーン用のチラシ用コンテンツの作成 </a>
           </p>
-          <p class="is-size-6"><em>Adobe Fireflyを活用したテキストを画像に使用し、グローバルなホテルマーケティングキャンペーンからローカライズされたコンテンツを作成するAdobe Expressを説明します。 </em></p>
+          <p class="is-size-6"><em>Adobe Fireflyを活用してテキストから画像を作成する方法を、Adobe Expressで使用して、グローバルなホテルマーケティングキャンペーンからローカライズされたコンテンツを作成する方法を説明します。 </em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -184,12 +184,12 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="分散したチームがコンテンツをローカライズできるようにする">分散したチームがコンテンツをローカライズできるようにする</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="分散したチームがコンテンツをローカライズできるようにする"> 分散したチームがコンテンツをローカライズできるようにする </a>
           </p>
-          <p class="is-size-6"><em>分散したフィールドマーケティングチームが、地域のマーケティングキャンペーン用にコンテンツを容易にカスタマイズする方法を説明します。 </em></p>
+          <p class="is-size-6"><em>分散型フィールドマーケティングチームがローカルマーケティングキャンペーン用に地域に合わせてコンテンツを簡単にカスタマイズする方法を説明します。 </em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -205,12 +205,12 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="魅力的なマーチャンダイジングコンテンツの作成">魅力的なマーチャンダイジングコンテンツの作成</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="魅力的なマーチャンダイジングコンテンツの作成"> 魅力的なマーチャンダイジングコンテンツの作成 </a>
           </p>
-          <p class="is-size-6"><em>コマースチームがオンラインストアに新しい在庫セットを簡単に作成できる方法を説明します。</em></p>
+          <p class="is-size-6"><em>コマースチームがオンラインストアに新しい在庫セットのための魅力的な画像を簡単に作成する方法を説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -226,12 +226,12 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="マーケティングチームがマルチチャネルコンテンツを作成できるようにする">マーケティングチームがマルチチャネルコンテンツを作成できるようにする</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="マーケティングチームがマルチチャネルコンテンツを作成できるようにする"> マーケティングチームがマルチチャネルコンテンツを作成できるようにする </a>
           </p>
-          <p class="is-size-6"><em>イベントマーケティングチームが、オンラインイベントの視聴者を惹きつける独自のコンテンツを作成する方法を説明します。</em></p>
+          <p class="is-size-6"><em>イベントマーケティングチームが一意のコンテンツを作成して、オンラインイベントの視聴者を引き付ける方法を説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -247,12 +247,12 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="このPDFのスタイル設定">このPDFのスタイル設定</a>
+              <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" title="このPDFのスタイル設定"> このPDFをスタイル設定 </a>
           </p>
-          <p class="is-size-6"><em>Adobe Expressの使いやすい統合設計ツールを使用して、プロフェッショナルなPDFを作成する方法を学びます。 このビデオチュートリアルでは、新しい Workspace の使い方を使用します。</em></p>
+          <p class="is-size-6"><em>Adobe Expressに統合された使いやすいデザインツールを使用して、プロフェッショナルな外観のPDFを作成する方法を説明します。 このビデオチュートリアルでは、新しいワークスペースエクスペリエンスを使用します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -268,12 +268,12 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Creative Cloud サービスでのコンテンツ自動処理の概要">Creative Cloud・サービスを使用したコンテンツ自動化の概要</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="Creative Cloud サービスでのコンテンツ自動処理の概要">Creative Cloudサービスを使用したコンテンツ自動処理の概要 </a>
           </p>
           <p class="is-size-6"><em>概要は、Adobe Experience Manager Assets コンテンツ自動処理機能で Photoshop と Lightroom の機能を適用する場合のものです。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -289,12 +289,12 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Adobe Express の統合">Adobe Express統合</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" title="Adobe Express の統合">Adobe Expressの統合 </a>
           </p>
           <p class="is-size-6"><em>AEM Assets と Adobe Express を使用してコンテンツのサプライチェーンを最適化し、すべてのチームメンバーの生産性とアクセシビリティを向上させる方法について説明します。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">ビデオを見る</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ビデオを視聴 </span>
       </a>
     </div>
   </div>
@@ -469,5 +469,5 @@ Adobeコンテンツサプライチェーンツールを使用すると、クリ
 
 ## その他のリソース
 
-* [Experience Leagueイベント](https://experienceleague.adobe.com/events/)
-* [コンテンツサプライチェーンに関するAdobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Experience League イベント ](https://experienceleague.adobe.com/events/)
+* [ コンテンツのサプライチェーンに関するAdobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
