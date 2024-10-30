@@ -7,7 +7,8 @@ feature-set: Creative Cloud, Workfront, Journey Optimizer, Experience Manager, E
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/content-supply-chain-learn.ja-JP
 index: false
-source-git-commit: 2324bfb3e4eb2ca8fcbbb00cac288516edae5cb9
+hide: true
+source-git-commit: 9a1c497f9ef9c81f8270dfb7d4077cdb82b87793
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 98%
